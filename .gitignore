@@ -1,0 +1,31 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Compass and Scss cache #
+##########################
+.sass-cache/
+
+# Node #
+########
+node_modules
+
+
+# Coverage #
+############
+JSCover
+lib-cov
+coverage
+
+# Logs and databases #
+######################
+logs
+*.log
+*.sql
+*.sqlite
